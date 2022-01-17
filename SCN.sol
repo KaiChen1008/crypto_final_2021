@@ -3,11 +3,7 @@ pragma solidity ^0.8.2;
 
 import "hardhat/console.sol";
 import "@openzeppelin/contracts@4.4.2/token/ERC1155/ERC1155.sol";
-// import "@openzeppelin/contracts@4.4.2/access/Ownable.sol";
-// import "@openzeppelin/contracts@4.4.2/token/ERC1155/extensions/ERC1155Burnable.sol";
-// import "@openzeppelin/contracts@4.4.2/token/ERC1155/extensions/ERC1155Supply.sol";
 
-// ERC1155, Ownable, ERC1155Burnable, ERC1155Supply
 contract Company is ERC1155 {
 
     uint TOKENID = 0;
