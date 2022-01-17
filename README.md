@@ -53,7 +53,7 @@ Note: if the token is not enough, re-issue will fail.
 
 ### Transfer
 
-To transfer a token to a given address. Enter the following informations:
+To transfer a token to a given address, enter the following informations:
 
 ```
 1. Compayn name(string)
