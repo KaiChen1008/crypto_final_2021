@@ -56,7 +56,7 @@ Note: if the token is not enough, re-issue will fail.
 To transfer a token to a given address, enter the following informations:
 
 ```
-1. Compayn name(string)
+1. Company name(string)
 2. Target address (address)
 ```
 
