@@ -45,7 +45,7 @@ Note: Only funders can issue a token.
 
 ### Re-Issue
 
-Same as Issue. The difference is that the "reissue" event will burn a token and issue two token.
+Same as Issue. The difference is that the "reissue" event will burn a token and issue two tokens.
 
 Note: if the token is not enough, re-issue will fail.
 
