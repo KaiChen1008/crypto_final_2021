@@ -19,11 +19,13 @@ Add a compnay ➡️  Issue/Re-issue/Transfer ➡️ Comfirm an Action
 
 Please enter the following information. 
 
+```
 1. company name (string)
 2. funding date (string)
 3. number of shares (uint)
 4. funders' adress (array of address)
 5. number of comfirmation for each action (uint)
+```
 
 After you add a company, the first number of shares genesis will be minted automatically.
 
@@ -53,8 +55,10 @@ Note: if the token is not enough, re-issue will fail.
 
 To transfer a token to a given address. Enter the following informations:
 
+```
 1. Compayn name(string)
 2. Target address (address)
+```
 
 Note: Only funders can launch a transfer event.
 
@@ -68,8 +72,10 @@ After an action is launched, funders can confirm the action by "confirmAction".
 
 The informations needed are:
 
+```
 1. Company name (string)
 2. action index (uint)
+```
 
 Once the number of confirmations is enough. the action will be launched automatically.
 
