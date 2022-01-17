@@ -2,7 +2,7 @@
 
 
 
-## prerequisite
+## Pre-requisite
 
 - metamask
 - [remix IDE](https://remix.ethereum.org/)
@@ -13,7 +13,7 @@ First of all, paste the code to [remix IDE](https://remix.ethereum.org/) and com
 
 ### Flow
 
-Add a compnay ➡️  Issue/Re-issue/Transfer ➡️ Comfirm an Action
+Add a company ➡️  Issue/Re-issue/Transfer ➡️ Comfirm an Action
 
 ### Add a Company
 
@@ -37,7 +37,7 @@ The NFT is under the system (not one of the funder's address)
 
 ### Issue
 
-To issue/mint a token, just enter the company name. the "issue" event will start when the number of confirmations is enough.
+To issue/mint a token, just enter the company name. The "issue" event will start when the number of confirmation is enough.
 
 Note: Only funders can issue a token. 
 
@@ -62,15 +62,15 @@ To transfer a token to a given address, enter the following informations:
 
 Note: Only funders can launch a transfer event.
 
-Note: transfer will start when the number of confirmations is enough.
+Note: Transfer will start when the number of confirmations is enough.
 
 ![截圖 2022-01-17 下午10.36.47](https://s2.loli.net/2022/01/17/juAoO4UCmn5Z1gM.png)
 
 ### Confirm an Action
 
-After an action is launched, funders can confirm the action by "confirmAction".
+After an action launched, funders can confirm the action by "confirmAction".
 
-The informations needed are:
+There are two arguments should be checked out:
 
 ```
 1. Company name (string)
