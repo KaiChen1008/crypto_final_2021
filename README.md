@@ -9,7 +9,7 @@
 
 ## How to Use
 
-First of all, paste the code to [remix IDE](https://remix.ethereum.org/) and run the 
+First of all, paste the code to [remix IDE](https://remix.ethereum.org/) and compile it.
 
 ### Flow
 
